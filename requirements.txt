@@ -1,0 +1,8 @@
+openai==0.28
+langchain
+docarray
+pandas
+pypdf
+chromadb
+pysqlite3-binary
+tiktoken
